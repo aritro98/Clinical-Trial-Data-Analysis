@@ -89,21 +89,17 @@ The datasets used in this project include:
    - Apply pastel palettes for accessibility.
 
 ## Usage
-1. Clone the repository and install dependencies (see [How to Run](#how-to-run)).
-2. Open the Jupyter Notebook or run the Python script to explore the datasets.
-3. Analyze trial types and identify the most frequent conditions studied.
-4. Discover the top non-pharmaceutical sponsors based on trial contributions.
-5. Generate visualizations, such as monthly trends in completed studies for 2021.
-6. Extend the analysis by integrating additional datasets or custom queries.
+1. Open the Jupyter Notebook:
+   ```bash
+   jupyter notebook Clinical_Trial_Data_Analysis.ipynb
+   ```
+2. Analyze trial types, conditions, and sponsor contributions by running the provided code cells.
+3. Visualize monthly completion trends and extend the analysis with custom queries.
 
 ## Results
-1. **Distinct Studies**:
-   - A total of `X` unique clinical trials were identified.
-2. **Trial Types**:
-   - The most common trial types, including interventional and observational, were highlighted.
-3. **Top Conditions**:
-   - Conditions like diabetes, cancer, and hypertension were among the most frequently studied.
-4. **Sponsor Insights**:
-   - A list of non-pharmaceutical sponsors contributing significantly to clinical trials was generated.
-5. **Monthly Trends**:
-   - Visualization of monthly completion trends for 2021 revealed patterns in study completions.
+1. **Distinct Studies**: A total of `X` unique clinical trials were identified.
+2. **Trial Types**: The most common trial types, including interventional and observational, were highlighted.
+3. **Top Conditions**: Conditions like diabetes, cancer, and hypertension were among the most frequently studied.
+4. **Hierarchy Roots**: The top 5 most frequent hierarchy roots from the condition classification were extracted.
+5. **Sponsor Insights**: A list of non-pharmaceutical sponsors contributing significantly to clinical trials was generated.
+6. **Monthly Trends**: Visualization of monthly completion trends for 2021 revealed patterns in study completions.
