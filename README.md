@@ -35,8 +35,8 @@ The datasets used in this project include:
 
 ## Technologies Used
 - **Programming Language**: Python
-- **Libraries**: pandas, matplotlib, seaborn
-- **Tools**: Jupyter Notebook / Google Colab
+- **Libraries**: pandas, matplotlib, seaborn, tabulate
+- **Tools**: Jupyter Notebook
 
 ## Key Features
 - **Distinct Studies**:
