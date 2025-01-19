@@ -68,7 +68,7 @@ The datasets used in this project include:
 3. Visualize monthly completion trends and extend the analysis with custom queries.
 
 ## Results
-1. **Distinct Studies**: The analysis identified a significant number of unique clinical trials, highlighting the diversity and scope of the dataset.
+1. **Distinct Studies**: The analysis identified a significant number of unique clinical trials.
 2. **Trial Types**: The most common trial types, including interventional and observational, were highlighted.
 3. **Top Conditions**: Conditions like diabetes, cancer, and hypertension were among the most frequently studied.
 4. **Hierarchy Roots**: The top 5 most frequent hierarchy roots from the condition classification were extracted.
