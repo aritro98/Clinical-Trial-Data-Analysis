@@ -18,12 +18,15 @@ The aim of this analysis is to shed light on clinical trial distribution, preval
 
 ## Dataset Description
 The datasets used in this project include:
-1. **clinicaltrial_2021.csv**:
-   - Contains clinical trial information such as sponsors, types, conditions, start and completion dates, and statuses.
-2. **mesh.csv**:
-   - Maps conditions to hierarchical codes for classification.
-3. **pharma.csv**:
-   - Lists pharmaceutical companies and related information.
+1. **Clinical Trial Dataset**:
+   - This dataset contains information about clinical trials conducted in 2021. It includes details such as trial phases, participant demographics, treatment protocols, and outcomes.
+   - Researchers can use this data to understand trends, evaluate treatment efficacy, and identify areas for further investigation.
+2. **Medical Subject Headings Dataset**:
+   - Mesh terms are standardized vocabulary descriptors used to categorize biomedical literature. They help organize and retrieve relevant articles.
+   - In this analysis, Mesh data is used to link clinical trial data to specific medical conditions, treatments, or interventions. Researchers can explore which Mesh terms are most prevalent in the trials.
+3. **Pharmaceutical Company Dataset**:
+   - This dataset provides insights into pharmaceutical companies. It may include information about company size, revenue, research focus, and legal history.
+   - Researchers can analyze legal actions involving pharmaceutical firms, such as patent disputes, regulatory violations, or product liability cases.
 
 ## Technologies Used
 - **Programming Language**: Python
