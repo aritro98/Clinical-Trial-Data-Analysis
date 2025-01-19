@@ -59,7 +59,7 @@ The datasets used in this project include:
 ## Installation and Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/aritro98/clinical-trial-analysis.git
+   git clone https://github.com/aritro98/Clinical-Trial-Data-Analysis.git
    ```
 2. Navigate to the project directory:
    ```bash
