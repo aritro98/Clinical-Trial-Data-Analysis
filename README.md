@@ -1,6 +1,6 @@
 # Clinical Trial Data Analysis
 
-This repository contains code and data analysis for clinical trial datasets. The analysis focuses on cleaning, processing, and extracting insights from clinical trial records, condition hierarchies, and pharmaceutical company data.
+This project demonstrates a structured approach to analyzing clinical trial datasets using Python. It focuses on deriving actionable insights by cleaning, processing, and visualizing data related to trial records, condition hierarchies, and sponsor contributions.
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
@@ -10,16 +10,11 @@ This repository contains code and data analysis for clinical trial datasets. The
 5. [Installation and Setup](#installation-and-setup)
 6. [Usage](#usage)
 7. [Results](#results)
-8. [Conclusion](#conclusion)
 
 ## Project Overview
-This project involves analyzing clinical trial datasets to extract valuable insights about:
-- The types of clinical trials conducted.
-- The most frequent conditions studied.
-- Non-pharmaceutical sponsors.
-- Monthly completion trends for the year 2021.
+This project provides an in-depth analysis of clinical trial datasets to uncover meaningful insights into trial trends, frequently studied conditions, and key sponsor contributions. By leveraging Python for data cleaning, exploration, and visualization, it highlights the distribution of trial types, identifies top conditions and sponsors, and visualizes monthly completion patterns for 2021.
 
-The repository demonstrates a comprehensive data analysis pipeline using Python.
+The aim of this analysis is to shed light on clinical trial distribution, prevalent conditions, and legal aspects within the pharmaceutical industry.
 
 ## Dataset Description
 The datasets used in this project include:
