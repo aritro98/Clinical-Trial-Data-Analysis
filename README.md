@@ -3,7 +3,6 @@
 This repository contains code and data analysis for clinical trial datasets. The analysis focuses on cleaning, processing, and extracting insights from clinical trial records, condition hierarchies, and pharmaceutical company data.
 
 ## Table of Contents
-
 1. [Project Overview](#project-overview)
 2. [Dataset Description](#dataset-description)
 3. [Technologies Used](#technologies-used)
@@ -14,7 +13,6 @@ This repository contains code and data analysis for clinical trial datasets. The
 8. [Results](#results)
 
 ## Project Overview
-
 This project involves analyzing clinical trial datasets to extract valuable insights about:
 - The types of clinical trials conducted.
 - The most frequent conditions studied.
@@ -24,7 +22,6 @@ This project involves analyzing clinical trial datasets to extract valuable insi
 The repository demonstrates a comprehensive data analysis pipeline using Python.
 
 ## Dataset Description
-
 The datasets used in this project include:
 
 1. **clinicaltrial_2021.csv**:
@@ -37,33 +34,25 @@ The datasets used in this project include:
    - Lists pharmaceutical companies and related information.
 
 ## Technologies Used
-
 - **Programming Language**: Python
 - **Libraries**: pandas, matplotlib, seaborn
 - **Tools**: Jupyter Notebook / Google Colab
 
 ## Key Features
-
-1. Distinct Studies:
-- The dataset includes a total of `X` unique clinical trials (where `X` is calculated dynamically).
-
-2. Trial Types:
-- The most frequent trial types are extracted and displayed in descending order of occurrence.
-
-3. Top 5 Conditions:
-- Frequently studied conditions are identified and visualized.
-
-4. Hierarchy Roots:
-- Hierarchical classification of conditions reveals the top 5 most common roots.
-
-5. Non-Pharmaceutical Sponsors:
-- The top 10 non-pharmaceutical sponsors are listed based on the number of trials.
-
-6. Monthly Completion Trends:
-- A bar plot shows the number of completed studies each month in 2021.
+- **Distinct Studies**:
+  - The dataset includes a total of `X` unique clinical trials (where `X` is calculated dynamically).
+- **Trial Types**:
+  - The most frequent trial types are extracted and displayed in descending order of occurrence.
+- **Top 5 Conditions**:
+  - Frequently studied conditions are identified and visualized.
+- **Hierarchy Roots**:
+  - Hierarchical classification of conditions reveals the top 5 most common roots.
+- **Non-Pharmaceutical Sponsors**:
+  - The top 10 non-pharmaceutical sponsors are listed based on the number of trials.
+- **Monthly Completion Trends**:
+  - A bar plot shows the number of completed studies each month in 2021.
 
 ## Installation and Setup
-
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/clinical-trial-analysis.git
@@ -87,7 +76,6 @@ The datasets used in this project include:
 5. View the results and visualizations.
 
 ## Steps for Data Analysis
-
 1. **Load Data**:
    - Import clinical trial, mesh, and pharmaceutical datasets into pandas DataFrames.
 
@@ -109,7 +97,6 @@ The datasets used in this project include:
    - Apply pastel palettes for accessibility.
 
 ## Usage
-
 1. Clone the repository and install dependencies (see [How to Run](#how-to-run)).
 2. Open the Jupyter Notebook or run the Python script to explore the datasets.
 3. Analyze trial types and identify the most frequent conditions studied.
@@ -118,7 +105,6 @@ The datasets used in this project include:
 6. Extend the analysis by integrating additional datasets or custom queries.
 
 ## Results
-
 1. **Distinct Studies**:
    - A total of `X` unique clinical trials were identified.
 
