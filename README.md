@@ -99,15 +99,11 @@ The datasets used in this project include:
 ## Results
 1. **Distinct Studies**:
    - A total of `X` unique clinical trials were identified.
-
 2. **Trial Types**:
    - The most common trial types, including interventional and observational, were highlighted.
-
 3. **Top Conditions**:
    - Conditions like diabetes, cancer, and hypertension were among the most frequently studied.
-
 4. **Sponsor Insights**:
    - A list of non-pharmaceutical sponsors contributing significantly to clinical trials was generated.
-
 5. **Monthly Trends**:
    - Visualization of monthly completion trends for 2021 revealed patterns in study completions.
