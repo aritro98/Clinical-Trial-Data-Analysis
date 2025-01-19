@@ -59,25 +59,16 @@ The datasets used in this project include:
 ## Installation and Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/clinical-trial-analysis.git
+   git clone https://github.com/aritro98/clinical-trial-analysis.git
    ```
-
-2. Install the required libraries:
+2. Navigate to the project directory:
    ```bash
-   pip install pandas matplotlib seaborn
+   cd Clinical-Trial-Data-Analysis
    ```
-
-3. Open the Jupyter Notebook:
+3. Install the required Python libraries:
    ```bash
-   jupyter notebook clinical_trial_analysis.ipynb
+   pip install -r requirements.txt
    ```
-
-4. Run the analysis script (optional):
-   ```bash
-   python clinical_trial_analysis.py
-   ```
-
-5. View the results and visualizations.
 
 ## Steps for Data Analysis
 1. **Load Data**:
