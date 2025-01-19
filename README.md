@@ -62,6 +62,30 @@ The datasets used in this project include:
 ### 6. Monthly Completion Trends:
 - A bar plot shows the number of completed studies each month in 2021.
 
+## Installation and Setup
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/clinical-trial-analysis.git
+   ```
+
+2. Install the required libraries:
+   ```bash
+   pip install pandas matplotlib seaborn
+   ```
+
+3. Open the Jupyter Notebook:
+   ```bash
+   jupyter notebook clinical_trial_analysis.ipynb
+   ```
+
+4. Run the analysis script (optional):
+   ```bash
+   python clinical_trial_analysis.py
+   ```
+
+5. View the results and visualizations.
+
 ## Steps for Data Analysis
 
 1. **Load Data**:
@@ -109,27 +133,3 @@ The datasets used in this project include:
 
 5. **Monthly Trends**:
    - Visualization of monthly completion trends for 2021 revealed patterns in study completions.
-
-## Installation and Setup
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/clinical-trial-analysis.git
-   ```
-
-2. Install the required libraries:
-   ```bash
-   pip install pandas matplotlib seaborn
-   ```
-
-3. Open the Jupyter Notebook:
-   ```bash
-   jupyter notebook clinical_trial_analysis.ipynb
-   ```
-
-4. Run the analysis script (optional):
-   ```bash
-   python clinical_trial_analysis.py
-   ```
-
-5. View the results and visualizations.
