@@ -13,7 +13,7 @@ This repository contains code and data analysis for clinical trial datasets. The
 7. [Usage](#usage)
 8. [Results](#results)
 
-## Overview
+## Project Overview
 
 This project involves analyzing clinical trial datasets to extract valuable insights about:
 - The types of clinical trials conducted.
@@ -23,7 +23,7 @@ This project involves analyzing clinical trial datasets to extract valuable insi
 
 The repository demonstrates a comprehensive data analysis pipeline using Python.
 
-## Data Description
+## Dataset Description
 
 The datasets used in this project include:
 
@@ -58,7 +58,7 @@ The datasets used in this project include:
    - Use bar plots to visualize the monthly completion trends.
    - Apply pastel palettes for accessibility.
 
-## Key Insights
+## Key Features
 
 ### 1. Distinct Studies:
 - The dataset includes a total of `X` unique clinical trials (where `X` is calculated dynamically).
@@ -110,7 +110,7 @@ The datasets used in this project include:
 5. **Monthly Trends**:
    - Visualization of monthly completion trends for 2021 revealed patterns in study completions.
 
-## How to Run
+## Installation and Setup
 
 1. Clone the repository:
    ```bash
