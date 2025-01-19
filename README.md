@@ -44,22 +44,22 @@ The datasets used in this project include:
 
 ## Key Features
 
-### 1. Distinct Studies:
+1. Distinct Studies:
 - The dataset includes a total of `X` unique clinical trials (where `X` is calculated dynamically).
 
-### 2. Trial Types:
+2. Trial Types:
 - The most frequent trial types are extracted and displayed in descending order of occurrence.
 
-### 3. Top 5 Conditions:
+3. Top 5 Conditions:
 - Frequently studied conditions are identified and visualized.
 
-### 4. Hierarchy Roots:
+4. Hierarchy Roots:
 - Hierarchical classification of conditions reveals the top 5 most common roots.
 
-### 5. Non-Pharmaceutical Sponsors:
+5. Non-Pharmaceutical Sponsors:
 - The top 10 non-pharmaceutical sponsors are listed based on the number of trials.
 
-### 6. Monthly Completion Trends:
+6. Monthly Completion Trends:
 - A bar plot shows the number of completed studies each month in 2021.
 
 ## Installation and Setup
