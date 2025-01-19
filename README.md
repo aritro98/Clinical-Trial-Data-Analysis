@@ -36,6 +36,12 @@ The datasets used in this project include:
 3. **pharma.csv**:
    - Lists pharmaceutical companies and related information.
 
+## Technologies Used
+
+- **Programming Language**: Python
+- **Libraries**: pandas, matplotlib, seaborn
+- **Tools**: Jupyter Notebook / Google Colab
+
 ## Steps for Data Analysis
 
 1. **Load Data**:
@@ -77,12 +83,6 @@ The datasets used in this project include:
 
 ### 6. Monthly Completion Trends:
 - A bar plot shows the number of completed studies each month in 2021.
-
-## Technologies Used
-
-- **Programming Language**: Python
-- **Libraries**: pandas, matplotlib, seaborn
-- **Tools**: Jupyter Notebook / Google Colab
 
 ## Usage
 
