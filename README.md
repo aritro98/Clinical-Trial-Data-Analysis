@@ -23,13 +23,10 @@ The repository demonstrates a comprehensive data analysis pipeline using Python.
 
 ## Dataset Description
 The datasets used in this project include:
-
 1. **clinicaltrial_2021.csv**:
    - Contains clinical trial information such as sponsors, types, conditions, start and completion dates, and statuses.
-   
 2. **mesh.csv**:
    - Maps conditions to hierarchical codes for classification.
-   
 3. **pharma.csv**:
    - Lists pharmaceutical companies and related information.
 
