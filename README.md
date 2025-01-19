@@ -4,14 +4,14 @@ This repository contains code and data analysis for clinical trial datasets. The
 
 ## Table of Contents
 
-1. [Overview](#overview)
-2. [Data Description](#data-description)
-3. [Steps for Data Analysis](#steps-for-data-analysis)
-4. [Key Insights](#key-insights)
-5. [Technologies Used](#technologies-used)
-6. [Usage](#usage)
-7. [Results](#results)
-8. [How to Run](#how-to-run)
+1. [Project Overview](#project-overview)
+2. [Dataset Description](#dataset-description)
+3. [Technologies Used](#technologies-used)
+4. [Key Features](#key-features)
+5. [Installation and Setup](#installation-and-setup)
+6. [Steps for Data Analysis](#steps-for-data-analysis)
+7. [Usage](#usage)
+8. [Results](#results)
 
 ## Overview
 
