@@ -8,9 +8,9 @@ This repository contains code and data analysis for clinical trial datasets. The
 3. [Technologies Used](#technologies-used)
 4. [Key Features](#key-features)
 5. [Installation and Setup](#installation-and-setup)
-6. [Steps for Data Analysis](#steps-for-data-analysis)
-7. [Usage](#usage)
-8. [Results](#results)
+6. [Usage](#usage)
+7. [Results](#results)
+8. [Conclusion](#conclusion)
 
 ## Project Overview
 This project involves analyzing clinical trial datasets to extract valuable insights about:
@@ -40,18 +40,12 @@ The datasets used in this project include:
 - **Tools**: Jupyter Notebook
 
 ## Key Features
-- **Distinct Studies**:
-  - The dataset includes a total of `X` unique clinical trials (where `X` is calculated dynamically).
-- **Trial Types**:
-  - The most frequent trial types are extracted and displayed in descending order of occurrence.
-- **Top 5 Conditions**:
-  - Frequently studied conditions are identified and visualized.
-- **Hierarchy Roots**:
-  - Hierarchical classification of conditions reveals the top 5 most common roots.
-- **Non-Pharmaceutical Sponsors**:
-  - The top 10 non-pharmaceutical sponsors are listed based on the number of trials.
-- **Monthly Completion Trends**:
-  - A bar plot shows the number of completed studies each month in 2021.
+- **Distinct Studies**: The dataset includes a total of `X` unique clinical trials (where `X` is calculated dynamically).
+- **Trial Types**: The most frequent trial types are extracted and displayed in descending order of occurrence.
+- **Top 5 Conditions**: Frequently studied conditions are identified and visualized.
+- **Hierarchy Roots**: Hierarchical classification of conditions reveals the top 5 most common roots.
+- **Non-Pharmaceutical Sponsors**: The top 10 non-pharmaceutical sponsors are listed based on the number of trials.
+- **Monthly Completion Trends**: A bar plot shows the number of completed studies each month in 2021.
 
 ## Installation and Setup
 1. Clone the repository:
@@ -66,27 +60,6 @@ The datasets used in this project include:
    ```bash
    pip install -r requirements.txt
    ```
-
-## Steps for Data Analysis
-1. **Load Data**:
-   - Import clinical trial, mesh, and pharmaceutical datasets into pandas DataFrames.
-
-2. **Data Cleaning**:
-   - Remove duplicate entries.
-   - Drop rows with missing values in critical columns such as `Id`, `Sponsor`, `Type`, `Conditions`, `Start`, and `Completion`.
-   - Convert date columns (`Start`, `Completion`) to datetime format.
-
-3. **Data Analysis**:
-   - Count distinct clinical trials.
-   - Determine the frequency of each trial type.
-   - Identify the top 5 conditions studied.
-   - Extract the most frequent hierarchy roots from the condition mapping.
-   - List the top 10 non-pharmaceutical sponsors.
-   - Analyze monthly completion trends for the year 2021.
-
-4. **Visualization**:
-   - Use bar plots to visualize the monthly completion trends.
-   - Apply pastel palettes for accessibility.
 
 ## Usage
 1. Open the Jupyter Notebook:
