@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environment variables
+.env
+
+# Virtual environments
+venv/
+.env/
+
+# Logs
+*.log
+*.out
+*.err
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
+
+# Other
+*.swp
+.idea/
